@@ -1,0 +1,13 @@
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\bin\Debug\netcoreapp3.1\VBhelloworld.exe
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\bin\Debug\netcoreapp3.1\VBhelloworld.deps.json
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\bin\Debug\netcoreapp3.1\VBhelloworld.runtimeconfig.json
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\bin\Debug\netcoreapp3.1\VBhelloworld.runtimeconfig.dev.json
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\bin\Debug\netcoreapp3.1\VBhelloworld.dll
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\bin\Debug\netcoreapp3.1\VBhelloworld.pdb
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\obj\Debug\netcoreapp3.1\VBhelloworld.vbprojAssemblyReference.cache
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\obj\Debug\netcoreapp3.1\VBhelloworld.AssemblyInfoInputs.cache
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\obj\Debug\netcoreapp3.1\VBhelloworld.AssemblyInfo.vb
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\obj\Debug\netcoreapp3.1\VBhelloworld.vbproj.CoreCompileInputs.cache
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\obj\Debug\netcoreapp3.1\VBhelloworld.dll
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\obj\Debug\netcoreapp3.1\VBhelloworld.pdb
+C:\Users\Ing_1\Desktop\TestQuantum\Hello World\VBhelloworld\obj\Debug\netcoreapp3.1\VBhelloworld.genruntimeconfig.cache
